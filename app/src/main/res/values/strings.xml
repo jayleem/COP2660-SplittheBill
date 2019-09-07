@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SplittheBill</string>
+    <string name="titleWelcomeScreeen">Split the Bill</string>
+    <string name="titleHomeScreen">Screen 2</string>
+    <string name="menuBtn">TAP TO CONTINUE</string>
+    <string name="imgDesc">blue scissors cutting dollar sign</string>
+    <string name="inputBill">Bill amount:</string>
+    <string name="inputNumParty">Number of people in your party:</string>
+    <string name="calcBtn">CALCULATE COSTS</string>
+</resources>
